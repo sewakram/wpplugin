@@ -1,0 +1,4 @@
+use short code for plugin
+short code				URL                              File
+email_unsubscribe =>site_url().'/email-unsubscription=>list-table-example.php
+email_form        =>site_url().'/email'              =>emailtemplate.php
